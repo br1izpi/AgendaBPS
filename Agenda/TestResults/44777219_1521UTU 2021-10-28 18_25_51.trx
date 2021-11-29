@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="496ce83b-7e17-4e24-8938-c1de8f58528e" name="44777219@1521UTU 2021-10-28 18:25:51" runUser="UTU_DOMAIN\44777219" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="393caab6-d9aa-4623-9c3e-db9573104fc3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="44777219_1521UTU 2021-10-28 18_25_51">
+      <DeploymentItem filename="C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2021-10-28T18:25:51.4963047-03:00" queuing="2021-10-28T18:25:51.5334433-03:00" start="2021-10-28T18:25:51.5364452-03:00" finish="2021-10-28T18:25:51.8783949-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="diferencia_dias_test" storage="c:\users\44777219\documents\visual studio 2010\projects\agenda\agenda_test\bin\debug\agenda_test.dll" id="d2e326cc-756e-517c-8fb1-b30461f91575">
+      <Execution id="c20950de-df6d-4ee1-be7c-8743311adda3" />
+      <TestMethod codeBase="C:/Users/44777219/documents/visual studio 2010/Projects/Agenda/Agenda_Test/bin/Debug/Agenda_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Agenda_Test.FechaAgendaTest, Agenda_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="diferencia_dias_test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d2e326cc-756e-517c-8fb1-b30461f91575" executionId="c20950de-df6d-4ee1-be7c-8743311adda3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c20950de-df6d-4ee1-be7c-8743311adda3" testId="d2e326cc-756e-517c-8fb1-b30461f91575" testName="diferencia_dias_test" computerName="1521UTU" duration="00:00:00.1757018" startTime="2021-10-28T18:25:51.5394481-03:00" endTime="2021-10-28T18:25:51.8553800-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c20950de-df6d-4ee1-be7c-8743311adda3">
+      <Output>
+        <StdOut>a_parcial: 32 - m_parcial: 1 - d_parcial: 15</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;11565&gt;. </Message>
+          <StackTrace>   en Agenda_Test.FechaAgendaTest.diferencia_dias_test() en C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\FechaAgendaTest.cs:línea 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

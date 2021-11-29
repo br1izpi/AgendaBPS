@@ -1,0 +1,7 @@
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\bin\Debug\Agenda_Test.dll
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\bin\Debug\Agenda_Test.pdb
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\bin\Debug\Agenda.exe
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\bin\Debug\Agenda.pdb
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\obj\Debug\Agenda_Test.csprojResolveAssemblyReference.cache
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\obj\Debug\Agenda_Test.dll
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda_Test\obj\Debug\Agenda_Test.pdb

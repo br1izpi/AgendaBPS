@@ -1,0 +1,8 @@
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+c:\users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\44777219\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Form1.resources
